@@ -1,0 +1,474 @@
+#right {
+  position:absolute;
+  left:180px;
+  top:170px;
+}
+#votestateinfo {
+  height:34px;
+  width:160px;
+  font-size:20px;
+  line-height:34px;
+  color:black;
+  background-color:rgb(247, 239, 205);
+}
+.votestateinfo1 #voteimg {
+  position:absolute;
+  top:2px;
+  left:5px;
+  width:30px;
+  height:30px;
+  background: transparent url("../images/greenlight.png") no-repeat scroll 0% 0%;
+}
+.votestateinfo2 #voteimg {
+  position:absolute;
+  top:2px;
+  left:5px;
+  width:30px;
+  height:30px;
+  background: transparent url("../images/redlight.png") no-repeat scroll 0% 0%;
+}
+#u8 {
+  position:absolute;
+  left:0px;
+  top:40px;
+  width:1140px;
+  min-height:300px;
+  line-height:50px;
+  font-size:20px;
+  background-color:rgba(255, 143, 134, 1);
+}
+#votetittle {
+  position:absolute;
+  left:20px;
+  top:20px;
+  padding-left:10px;
+  padding-top:0px;
+  width:1090px;
+  background-color:white;
+  font-size:25px;
+  line-height:40px;
+}
+#voteinfo {
+  position:absolute;
+  left:20px;
+  padding-left:10px;
+  padding-top:0px;
+  width:1090px;
+  background-color:white;
+  font-size:15px;
+  line-height:40px;
+}
+.votechoicetemplate {
+  position:absolute;
+  background-color:white;
+  left:20px;
+  padding-left:10px;
+  width:1090px;
+  padding-top:5px;
+  padding-bottom:5px;
+}
+.votechoicetemplate #choice {
+  position:absolute;
+  top:8px;
+  width:20px;
+  height:20px;
+  line-height:25px;
+}
+.votechoicetemplate #othercandidatechoice {
+  position:absolute;
+  top:8px;
+  width:20px;
+  height:20px;
+  line-height:25px;
+}
+.votechoicetemplate #choicetxt {
+  position:relative;
+  font-size:20px;
+  line-height:30px;
+  width:1000px;
+  left:30px;
+}
+.votechoicetemplate .circle {
+  top:3px;
+  left:1050px;
+  width: 35px;
+  height: 35px;
+  position: absolute;
+  border-radius: 50%;
+  background: rgba(200, 46, 37, 1);
+}
+.pie_left, .pie_right {
+  width:35px; 
+  height:35px;
+  position: absolute;
+  top: 0;
+  left: 0px;
+}
+.circle_left, .circle_right {
+  width:35px; 
+  height:35px;
+  background:rgba(238, 238, 238, 1);
+  border-radius: 50%;
+  position: absolute;
+  top:0px;
+  left: 0px;
+}
+.pie_right, .circle_right {
+  clip:rect(0,auto,auto,17.5px);
+}
+.pie_left, .circle_left {
+  clip:rect(0,17.5px,auto,0);
+}
+.mask {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  left: 5.495px;
+  top: 5.49px;
+  background: #FFF;
+  position: absolute;
+  text-align: center;
+  line-height: 24px;
+  font-size: 10px;
+  font-weight: bold;
+  color: rgba(200, 46, 37, 1);
+}
+#submitbutton {
+  position:absolute;
+  width:100px;
+  height:30px;
+  font-size:20px;
+  cursor:pointer;
+}
+#resultanalysebutton {
+  position:absolute;
+  width:100px;
+  height:30px;
+  font-size:20px;
+  cursor:pointer;
+}
+#updateusersbutton {
+  position:absolute;
+  width:100px;
+  height:30px;
+  font-size:20px;
+  cursor:pointer;
+}
+#buttontxt {
+  position:absolute;
+  width:100px;
+  text-align:center;
+  font-size:15px;
+  height:30px;
+  line-height:30px;
+}
+#submit_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:30px;
+}
+#resultanalyse {
+  width:100px;
+  height:30px;
+  overflow:hidden;
+  cursor:pointer;
+  background:transparent url("../images/loginbutton.png") no-repeat scroll 0% 0%;
+  border:none;
+}
+#popupcontent{
+  position:absolute;
+  visibility:hidden;
+  overflow:hidden;
+  border:3px solid #666;
+  background-color:#FF8F86;
+  border:1pxsolid#333;
+  padding:5px;
+}
+#usergroup {
+  position:relative;
+  top:5px;
+  width:1140px;
+  height:30px;
+  font-size:16px;
+}
+#school {
+  position:absolute;
+  left:30px;
+  height:30px;
+  line-height:30px;
+}
+#school #txt {
+  position:relative;
+  line-height:30px;
+}
+#schoolchoice {
+  position:absolute;
+  left:50px;
+  top:3px;
+  line-height:30px;
+  width:150px;
+  height:22px;
+}
+#entrancetime {
+  position:absolute;
+  left:245px;
+  height:30px;
+  line-height:30px;
+}
+#entrancetime #txt {
+  position:relative;
+  line-height:30px;
+}
+#entrancetimechoice {
+  position:absolute;
+  left:80px;
+  top:3px;
+  line-height:30px;
+  width:150px;
+  height:22px;
+}
+#college {
+  position:absolute;
+  left:490px;
+  height:30px;
+  line-height:30px;
+}
+#college #txt {
+  position:relative;
+  line-height:30px;
+}
+#collegechoice {
+  position:absolute;
+  left:50px;
+  top:3px;
+  line-height:30px;
+  width:150px;
+  height:22px;
+}
+#depart {
+  position:absolute;
+  left:705px;
+  height:30px;
+  line-height:30px;
+}
+#depart #txt {
+  position:relative;
+  line-height:30px;
+}
+#departchoice {
+  position:absolute;
+  left:30px;
+  top:3px;
+  line-height:30px;
+  width:150px;
+  height:22px;
+}
+#class {
+  position:absolute;
+  left:900px;
+  height:30px;
+  line-height:30px;
+}
+#class #txt {
+  position:relative;
+  line-height:30px;
+}
+#classchoice {
+  position:absolute;
+  left:50px;
+  top:3px;
+  line-height:30px;
+  width:150px;
+  height:22px;
+}
+#politicalstatus {
+  position:absolute;
+  left:30px;
+  top:40px;
+  height:30px;
+  line-height:30px;
+}
+#politicalstatus #txt {
+  position:relative;
+  line-height:30px;
+}
+#politicaloption1 {
+  position:absolute;
+  left:80px;
+  top:3px;
+  line-height:30px;
+  width:15px;
+  height:15px;
+}
+#politicaloption1txt {
+  position:absolute;
+  left:105px;
+  top:0px;
+  line-height:30px;
+  width:150px;
+  height:15px;
+}
+#politicaloption2 {
+  position:absolute;
+  left:145px;
+  top:3px;
+  line-height:30px;
+  width:15px;
+  height:15px;
+}
+#politicaloption2txt {
+  position:absolute;
+  left:170px;
+  top:0px;
+  line-height:30px;
+  width:150px;
+  height:15px;
+}
+#politicaloption3 {
+  position:absolute;
+  left:240px;
+  top:3px;
+  line-height:30px;
+  width:15px;
+  height:15px;
+}
+#politicaloption3txt {
+  position:absolute;
+  left:265px;
+  top:0px;
+  line-height:30px;
+  width:150px;
+  height:15px;
+}
+#politicaloption4 {
+  position:absolute;
+  left:370px;
+  top:3px;
+  line-height:30px;
+  width:15px;
+  height:15px;
+}
+#politicaloption4txt {
+  position:absolute;
+  left:395px;
+  top:0px;
+  line-height:30px;
+  width:150px;
+  height:15px;
+}
+#nationality {
+  position:absolute;
+  left:550px;
+  top:40px;
+  height:30px;
+  line-height:30px;
+}
+#nationality #txt {
+  position:relative;
+  line-height:30px;
+}
+#nationalitychoice {
+  position:absolute;
+  left:50px;
+  top:3px;
+  line-height:30px;
+  width:150px;
+  height:22px;
+}
+#adduserbutton {
+  position:absolute;
+  left:880px;
+  top:40px;
+  height:30px;
+  line-height:30px;
+  font-size:15px;
+}
+#chooseuserbutton {
+  position:absolute;
+  left:1003px;
+  top:40px;
+  height:30px;
+  line-height:30px;
+  font-size:15px;
+}
+#selectboxid {
+  position:relative;
+  top:50px;
+}
+
+.selectbox {
+  position:relative;
+  width:500px;
+  height:220px;
+  margin:0px auto;
+}
+.selectbox #tip1{
+  position:absolute;
+  width:20px;
+  height:10px;
+  left:-5px;
+  top:20px;
+  font-size:15px;
+  line-height:1;
+}
+.selectbox #tip2{
+  position:absolute;
+  width:20px;
+  height:10px;
+  left:420px;
+  top:20px;
+  font-size:15px;
+  line-height:1;
+}
+.selectbox div {
+  float:left;
+}
+.selectbox .select-bar {
+  padding:0 20px;
+}
+.selectbox .select-bar select {
+  width:150px;
+  height:200px;
+  border:1px #A0A0A4 solid;
+  padding:4px;
+  font-size:14px;
+  font-family:"microsoft yahei";
+  color:black;
+}
+.btn-bar {}
+.btn-bar p {
+  margin-top:16px;
+}
+.btn-bar p .btn {
+  width:50px;
+  height:30px;
+  cursor:pointer;
+  font-family:simsun;
+  font-size:14px;
+}
+#submitupdateduser {
+  position:absolute;
+  left:1006px;
+  top:270px;
+  height:30px;
+  width:103px;
+  line-height:30px;
+  font-size:15px;
+}
+#closewindow {
+  position:absolute;
+  left:30px;
+  top:270px;
+  height:30px;
+  width:103px;
+  line-height:30px;
+  font-size:15px;
+}
+#recomend {
+  position:relative;
+  left:10px;
+  font-size:20px;
+  width:100px;
+}

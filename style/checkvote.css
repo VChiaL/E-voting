@@ -1,0 +1,88 @@
+.vote {
+  position:absolute;
+
+  margin-top:169px;
+  width:350px;
+  height:140px;
+  overflow:hidden;
+  cursor:pointer;
+  background-color:rgb(247, 239, 205);
+}
+.vote:hover {
+  background-color:rgb(250, 244, 222);
+}
+.votetittle {
+  position:absolute;
+  left:23px;
+  top:20px;
+  width:250px;
+  height:24px;
+  font-size:20px;
+}
+.votestarttime {
+  position:absolute;
+  left:23px;
+  top:80px;
+  width:250px;
+  height:16px;
+  font-size:14px;
+}
+.voteendtime {
+  position:absolute;
+  left:23px;
+  top:105px;
+  width:250px;
+  height:16px;
+  font-size:14px;
+}
+.votestate1 {
+  position:absolute;
+  left:220px;
+  top:94px;
+  width:100px;
+  height:30px;
+  line-height:30px;
+  font-size:16px;
+}
+.votestate2 {
+  position:absolute;
+  left:220px;
+  top:94px;
+  width:80px;
+  height:100px;
+  line-height:30px;
+  font-size:16px;
+}
+.votestate3 {
+  position:absolute;
+  left:220px;
+  top:94px;
+  width:80px;
+  height:100px;
+  line-height:30px;
+  font-size:16px;
+}
+.votestate1 #voteimg {
+  position:absolute;
+  left:84px;
+  top:0px;
+  width:30px;
+  height:30px;
+  background: transparent url("../images/greenlight.png") no-repeat scroll 0% 0%;
+}
+.votestate2 #voteimg {
+  position:absolute;
+  left:84px;
+  top:0px;
+  width:30px;
+  height:30px;
+  background: transparent url("../images/redlight.png") no-repeat scroll 0% 0%;
+}
+.votestate3 #voteimg {
+  position:absolute;
+  left:84px;
+  top:0px;
+  width:30px;
+  height:30px;
+  background: transparent url("../images/yellowlight.png") no-repeat scroll 0% 0%;
+}

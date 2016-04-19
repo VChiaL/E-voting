@@ -1,0 +1,910 @@
+#right {
+	
+}
+#u8 {
+  position:absolute;
+  left:180px;
+  top:170px;
+  width:1140px;
+  height:41px;
+  overflow:hidden;
+  background-color:rgba(255, 143, 134, 1);
+}
+#u9 {
+  position:absolute;
+  left:40px;
+  top:0px;
+  width:200px;
+  height:40px;
+  overflow:hidden;
+  font-size:20px;
+  line-height:40px;
+  text-align:center;
+}
+#u9_img {
+  position:absolute;
+  left:40px;
+  top:0px;
+  width:200px;
+  height:40px;
+  overflow:hidden;
+  cursor:pointer;
+}
+#u10 {
+  position:absolute;
+  left:290px;
+  top:0px;
+  width:200px;
+  height:40px;
+  overflow:hidden;
+  font-size:20px;
+  line-height:40px;
+  text-align:center;
+}
+#u10_img {
+  position:absolute;
+  left:290px;
+  top:0px;
+  width:200px;
+  height:40px;
+  overflow:hidden;
+  cursor:pointer;
+}
+#ucandidate {
+  position:absolute;
+  left:540px;
+  top:0px;
+  width:200px;
+  height:40px;
+  overflow:hidden;
+  font-size:20px;
+  line-height:40px;
+  text-align:center;
+}
+#ucandidate_img {
+  position:absolute;
+  left:540px;
+  top:0px;
+  width:200px;
+  height:40px;
+  overflow:hidden;
+  cursor:pointer;
+}
+#u11 {
+  position:absolute;
+  left:180px;
+  top:215px;
+  width:1140px;
+  height:38px;
+  overflow:hidden;
+  background-color:rgba(255, 143, 134, 1);
+}
+#u12 {
+  position:absolute;
+  left:30px;
+  top:5px;
+  width:1140px;
+  height:30px;
+  overflow:hidden;
+  font-size:16px;
+  line-height:30px;
+}
+#u22 {
+  position:absolute;
+  left:180px;
+  top:257px;
+  width:1140px;
+  height:295px;
+  overflow:hidden;
+  font-size:16px;
+  line-height:30px;
+  background-color:rgba(255, 143, 134, 1);
+}
+#usergroup {
+  position:relative;
+  top:5px;
+  width:1140px;
+  height:30px;
+}
+#school {
+  position:absolute;
+  left:30px;
+  height:30px;
+  line-height:30px;
+}
+#school #txt {
+  position:relative;
+  line-height:30px;
+}
+#schoolchoice {
+  position:absolute;
+  left:50px;
+  top:3px;
+  line-height:30px;
+  width:150px;
+  height:22px;
+}
+#entrancetime {
+  position:absolute;
+  left:245px;
+  height:30px;
+  line-height:30px;
+}
+#entrancetime #txt {
+  position:relative;
+  line-height:30px;
+}
+#entrancetimechoice {
+  position:absolute;
+  left:80px;
+  top:3px;
+  line-height:30px;
+  width:150px;
+  height:22px;
+}
+#college {
+  position:absolute;
+  left:490px;
+  height:30px;
+  line-height:30px;
+}
+#college #txt {
+  position:relative;
+  line-height:30px;
+}
+#collegechoice {
+  position:absolute;
+  left:50px;
+  top:3px;
+  line-height:30px;
+  width:150px;
+  height:22px;
+}
+#depart {
+  position:absolute;
+  left:705px;
+  height:30px;
+  line-height:30px;
+}
+#depart #txt {
+  position:relative;
+  line-height:30px;
+}
+#departchoice {
+  position:absolute;
+  left:30px;
+  top:3px;
+  line-height:30px;
+  width:150px;
+  height:22px;
+}
+#class {
+  position:absolute;
+  left:900px;
+  height:30px;
+  line-height:30px;
+}
+#class #txt {
+  position:relative;
+  line-height:30px;
+}
+#classchoice {
+  position:absolute;
+  left:50px;
+  top:3px;
+  line-height:30px;
+  width:150px;
+  height:22px;
+}
+#politicalstatus {
+  position:absolute;
+  left:30px;
+  top:40px;
+  height:30px;
+  line-height:30px;
+}
+#politicalstatus #txt {
+  position:relative;
+  line-height:30px;
+}
+#politicaloption1 {
+  position:absolute;
+  left:80px;
+  top:3px;
+  line-height:30px;
+  width:15px;
+  height:15px;
+}
+#politicaloption1txt {
+  position:absolute;
+  left:105px;
+  top:0px;
+  line-height:30px;
+  width:150px;
+  height:15px;
+}
+#politicaloption2 {
+  position:absolute;
+  left:145px;
+  top:3px;
+  line-height:30px;
+  width:15px;
+  height:15px;
+}
+#politicaloption2txt {
+  position:absolute;
+  left:170px;
+  top:0px;
+  line-height:30px;
+  width:150px;
+  height:15px;
+}
+#politicaloption3 {
+  position:absolute;
+  left:240px;
+  top:3px;
+  line-height:30px;
+  width:15px;
+  height:15px;
+}
+#politicaloption3txt {
+  position:absolute;
+  left:265px;
+  top:0px;
+  line-height:30px;
+  width:150px;
+  height:15px;
+}
+#politicaloption4 {
+  position:absolute;
+  left:370px;
+  top:3px;
+  line-height:30px;
+  width:15px;
+  height:15px;
+}
+#politicaloption4txt {
+  position:absolute;
+  left:395px;
+  top:0px;
+  line-height:30px;
+  width:150px;
+  height:15px;
+}
+#nationality {
+  position:absolute;
+  left:550px;
+  top:40px;
+  height:30px;
+  line-height:30px;
+}
+#nationality #txt {
+  position:relative;
+  line-height:30px;
+}
+#nationalitychoice {
+  position:absolute;
+  left:50px;
+  top:3px;
+  line-height:30px;
+  width:150px;
+  height:22px;
+}
+#adduserbutton {
+  position:absolute;
+  left:880px;
+  top:40px;
+  height:30px;
+  line-height:30px;
+  font-size:15px;
+}
+#chooseuserbutton {
+  position:absolute;
+  left:1003px;
+  top:40px;
+  height:30px;
+  line-height:30px;
+  font-size:15px;
+}
+#u13 {
+  position:absolute;
+  left:180px;
+  top:557px;
+  width:1140px;
+  min-height:410px;
+  overflow:hidden;
+  background-color:rgba(255, 143, 134, 1);
+}
+#u14 {
+  position:absolute;
+  left:30px;
+  top:24px;
+  height:20px;
+  line-height:20px;
+  font-size:18px;
+}
+#u15 {
+  position:absolute;
+  left:200px;
+  top:24px;
+  height:20px;
+  line-height:20px;
+  font-size:16px;
+}
+#minvotenum {
+  position:absolute;
+  left:150px;
+  width:180px;
+  top:0px;
+  height:20px;
+  line-height:20px;
+  font-size:16px;
+}
+#minvotenumtxt {
+  position:absolute;
+  left:105px;
+  width:40px;
+  top:-3px;
+  height:20px;
+  line-height:20px;
+  font-size:16px;
+}
+#maxvotenum {
+  position:absolute;
+  left:320px;
+  width:180px;
+  top:0px;
+  height:20px;
+  line-height:20px;
+  font-size:16px;
+}
+#maxvotenumtxt {
+  position:absolute;
+  left:105px;
+  width:40px;
+  top:-3px;
+  height:20px;
+  line-height:20px;
+  font-size:16px;
+}
+#u16 {
+  position:absolute;
+  left:30px;
+  top:55px;
+  width:830px;
+  font-size:20px;
+  font-family:"宋体","Arial Narrow";
+}
+#u17 {
+  position:absolute;
+  left:880px;
+  top:55px;
+  font-size:18px;
+  height:30px;
+  line-height:30px;
+}
+#u18 {
+  position:absolute;
+  left:970px;
+  top:55px;
+  width:125px;
+  font-size:20px;
+}
+.votechoicestate1 {
+  position:absolute;
+  left:30px;
+  height:20px;
+  line-height:20px;
+  font-size:18px;
+}
+.votechoicestate1 #deletevote{
+  position:absolute;
+  left:150px;
+  top:0px;
+  width:100px;
+  font-size:14px;
+}
+.votechoicestate2 #deletevote{
+  position:absolute;
+  left:150px;
+  top:0px;
+  width:100px;
+  font-size:14px;
+}
+.votechoicestate2 {
+  position:absolute;
+  left:30px;
+  top:93px;
+  height:20px;
+  line-height:20px;
+  font-size:18px;
+}
+.votechoicestate1 .pic1 {
+  position:absolute;
+  left:60px;
+  margin-top:-3px;
+  cursor:pointer;
+}
+.votechoicestate1 .pic2 {
+  position:absolute;
+  left:95px;
+  margin-top:-3px;
+  cursor:pointer;
+}
+.votechoicestate2 .pic1 {
+  position:absolute;
+  left:60px;
+  margin-top:-3px;
+  cursor:pointer;
+}
+.votechoicestate2 .pic2 {
+  position:absolute;
+  left:95px;
+  margin-top:-3px;
+  cursor:pointer;
+}
+.votechoicestate1 #votechoicetxt {
+  position:absolute;
+  left:0px;
+  top:30px;
+  width:680px;
+  height:22px;
+  line-height:22px;
+  font-size:15px;
+  font-family:"宋体","Arial Narrow";
+}
+.votechoicestate1 #allowtxt {
+  position:absolute;
+  left:700px;
+  top:30px;
+  height:20px;
+  line-height:20px;
+  font-size:20px;
+}
+.votechoicestate1 #allowtxttittle {
+  position:absolute;
+  left:720px;
+  width:150px;
+  top:30px;
+  height:30px;
+  line-height:30px;
+  font-size:16px;
+}
+.votechoicestate1 #maxvoted {
+  position:absolute;
+  left:890px;
+  width:120px;
+  top:30px;
+  height:30px;
+  line-height:30px;
+  font-size:16px;
+}
+.votechoicestate1 #maxvotedtxt {
+  position:absolute;
+  left:1000px;
+  top:30px;
+  width:65px;
+  font-size:20px;
+}
+
+.votechoicestate2 #votechoicetxt {
+  position:absolute;
+  left:0px;
+  top:30px;
+  width:350px;
+  height:22px;
+  line-height:22px;
+  font-size:15px;
+  font-family:"宋体","Arial Narrow";
+}
+.votechoicestate2 #imgurl {
+  position:absolute;
+  left:370px;
+  top:30px;
+  width:200px;
+  height:22px;
+  line-height:22px;
+  font-size:15px;
+  color:#666666;
+}
+.votechoicestate2 .uploadedimg {
+  position:absolute;
+  left:50px;
+  top:60px;
+  width:200px;
+  height:200px;
+  background-color:black;
+}
+.btn_addPic{
+  text-decoration:none;
+  display: block;
+  position: absolute;
+  width: 100px;
+  height: 24px;
+  overflow: hidden;
+  border: 1px solid #EBEBEB;
+  background: none repeat scroll 0 0 #F3F3F3;
+  color: #999999;
+  cursor: pointer;
+  text-align: center;font-size: 15px;
+}
+.optionimg {
+  position: absolute;
+  top:30px;
+  left:580px;
+}
+.voteinfoimg {
+  position: absolute;
+  top:125px;
+}
+.voteinfoimgurl {
+  position: absolute;
+  top:155px;
+  width:200px;
+}
+.btn_addPic span{
+  position: relative;
+  top:3px;
+  left:2px;
+  line-height: 20px;
+}
+.btn_addPic em {
+  position: relative;
+  top:1px;
+  background:url(http://p7.qhimg.com/t014ce592c1a0b2d489.png) 0 0;
+  display: inline-block;
+  width: 18px;
+  height: 18px;
+  overflow: hidden;
+  margin: 0 0 0 0;
+  line-height: 20px;
+  vertical-align: middle;
+  background-position:0px 0;
+}
+.btn_addPic:hover em{background-position:-19px 0;}
+.filePrew {
+  cursor: pointer;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100px;
+  height: 22px;
+  font-size: 100px; /* 增大不同浏览器的可点击区域 */
+  opacity: 0; /* 实现的关键点 */
+  filter:alpha(opacity=0);/* 兼容IE */
+}
+.votechoicestate2 #allowtxt {
+  position:absolute;
+  left:700px;
+  top:30px;
+  height:20px;
+  line-height:20px;
+  font-size:20px;
+}
+.votechoicestate2 #allowtxttittle {
+  position:absolute;
+  left:720px;
+  width:150px;
+  top:30px;
+  height:30px;
+  line-height:30px;
+  font-size:16px;
+}
+.votechoicestate2 #maxvoted {
+  position:absolute;
+  left:890px;
+  width:120px;
+  top:30px;
+  height:30px;
+  line-height:30px;
+  font-size:16px;
+}
+.votechoicestate2 #maxvotedtxt {
+  position:absolute;
+  left:1000px;
+  top:30px;
+  width:65px;
+  font-size:20px;
+}
+#addvote {
+  position:absolute;
+  left:30px;
+  top:340px;
+  height:20px;
+  line-height:20px;
+  font-size:16px;
+  cursor:pointer;
+}
+#selectboxid {
+  position:relative;
+  top:50px;
+}
+
+.selectbox {
+  position:relative;
+  width:500px;
+  height:220px;
+  margin:0px auto;
+}
+.selectbox #tip1{
+  position:absolute;
+  width:20px;
+  height:10px;
+  left:-5px;
+  top:20px;
+  font-size:15px;
+  line-height:1;
+}
+.selectbox #tip2{
+  position:absolute;
+  width:20px;
+  height:10px;
+  left:420px;
+  top:20px;
+  font-size:15px;
+  line-height:1;
+}
+.selectbox div {
+  float:left;
+}
+.selectbox .select-bar {
+  padding:0 20px;
+}
+.selectbox .select-bar select {
+  width:150px;
+  height:200px;
+  border:1px #A0A0A4 solid;
+  padding:4px;
+  font-size:14px;
+  font-family:"microsoft yahei";
+  color:black;
+}
+.btn-bar {}
+.btn-bar p {
+  margin-top:16px;
+}
+.btn-bar p .btn {
+  width:50px;
+  height:30px;
+  cursor:pointer;
+  font-family:simsun;
+  font-size:14px;
+}
+#voteinfo1 {
+  position:absolute;
+  left:30px;
+  top:92px;
+  width:830px;
+  height:25px;
+  font-size:15px;
+  font-family:"宋体","Arial Narrow";
+  color:#666666;
+}
+#voteinfoimgnum {
+  position:absolute;
+  left:880px;
+  top:92px;
+  font-size:18px;
+  height:30px;
+  line-height:30px;
+}
+#voteinfoimgnumselect {
+  position:absolute;
+  left:90px;
+  height:30px;
+  width:100px;
+  font-size:18px;
+}
+#voteinfoimgnumselect2 {
+  position:absolute;
+  left:90px;
+  height:30px;
+  width:100px;
+  font-size:18px;
+}
+#voteinfo2 {
+  position:absolute;
+  left:30px;
+  top:92px;
+  width:830px;
+  height:25px;
+  font-size:15px;
+  font-family:"宋体","Arial Narrow";
+  color:#666666;
+}
+#submitbutton {
+  position:absolute;
+  left:960px;
+  top:350px;
+  width:140px;
+  height:41px;
+  cursor:pointer;
+}
+#buttontext {
+  position:absolute;
+  height:41px;
+  line-height:41px;
+  font-size:20px;
+  width:140px;
+  text-align:center;
+}
+#buttonimg {
+  position:absolute;
+  height:41px;
+  line-height:41px;
+}
+#u23 {
+  position:absolute;
+  left:180px;
+  top:557px;
+  width:1140px;
+  height:190px;
+  overflow:hidden;
+  background-color:rgba(255, 143, 134, 1);
+}
+#u24 {
+  position:absolute;
+  left:30px;
+  top:24px;
+  height:20px;
+  line-height:20px;
+  font-size:18px;
+}
+#u25 {
+  position:absolute;
+  left:30px;
+  top:55px;
+  width:830px;
+  font-size:20px;
+}
+#u26 {
+  position:absolute;
+  left:880px;
+  top:55px;
+  font-size:18px;
+  height:30px;
+  line-height:30px;
+}
+#u27 {
+  position:absolute;
+  left:970px;
+  top:55px;
+  width:125px;
+  font-size:20px;
+}
+#u28 {
+  position:absolute;
+  left:180px;
+  top:557px;
+  width:1140px;
+  height:250px;
+  overflow:hidden;
+  background-color:rgba(255, 143, 134, 1);
+}
+#u29 {
+  position:absolute;
+  left:30px;
+  top:24px;
+  height:20px;
+  line-height:20px;
+  font-size:18px;
+}
+#u30 {
+  position:absolute;
+  left:30px;
+  top:55px;
+  width:1064px;
+  font-size:20px;
+}
+#u31 {
+  position:absolute;
+  left:30px;
+  top:90px;
+  font-size:18px;
+  height:30px;
+  line-height:30px;
+}
+#u32 {
+  position:absolute;
+  left:205px;
+  top:90px;
+  width:125px;
+  font-size:20px;
+}
+#submitbutton2 {
+  position:absolute;
+  left:960px;
+  top:130px;
+  width:140px;
+  height:41px;
+  cursor:pointer;
+}
+#submitbutton3 {
+  position:absolute;
+  left:960px;
+  top:180px;
+  width:140px;
+  height:41px;
+  cursor:pointer;
+}
+#buttontext2 {
+  position:absolute;
+  height:41px;
+  line-height:41px;
+  font-size:20px;
+  width:140px;
+  text-align:center;
+}
+#buttonimg2 {
+  position:absolute;
+  height:41px;
+  line-height:41px;
+}
+#buttontext3 {
+  position:absolute;
+  height:41px;
+  line-height:41px;
+  font-size:20px;
+  width:140px;
+  text-align:center;
+}
+#buttonimg3 {
+  position:absolute;
+  height:41px;
+  line-height:41px;
+}
+#addvoteinfobtn1 {
+  position:relative;
+  left:1000px;
+  top:90px;
+  width:100px;
+  height:30px;
+  color:#000000;
+  border:none;
+  background: transparent url("../images/loginbutton.png") no-repeat scroll 0% 0%;
+  cursor:pointer;
+}
+#addvoteinfobtn2 {
+  position:relative;
+  left:1000px;
+  top:90px;
+  width:100px;
+  height:30px;
+  color:#000000;
+  border:none;
+  background: transparent url("../images/loginbutton.png") no-repeat scroll 0% 0%;
+  cursor:pointer;
+}
+#addvoteinfobtn3 {
+  position:relative;
+  left:1000px;
+  top:140px;
+  width:100px;
+  height:30px;
+  color:#000000;
+  border:none;
+  background: transparent url("../images/loginbutton.png") no-repeat scroll 0% 0%;
+  cursor:pointer;
+}
+#container1 {
+  position:relative;
+  width: 1063px;
+  height: 300px;
+  left: 30px;
+  top: 90px;
+}
+#container2 {
+  position:relative;
+  width: 1063px;
+  height: 300px;
+  left: 30px;
+  top: 90px;
+}
+#container3 {
+  position:relative;
+  width: 1063px;
+  height: 300px;
+  left: 30px;
+  top: 130px;
+}

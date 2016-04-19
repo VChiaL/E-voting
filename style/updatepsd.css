@@ -1,0 +1,231 @@
+body {
+  margin:0px;
+  background-color:rgba(247, 239, 205, 1);
+  background-image:none;
+  position:relative;
+  left:-0px;
+  width:1366px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+#u0 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1366px;
+  height:108px;
+  background-color:white;
+}
+#u20 {
+  position:absolute;
+  left:393px;
+  top:0px;
+  width:580px;
+  height:105px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+  text-align:center;
+  line-height:normal;
+}
+#u20_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:580px;
+  height:105px;
+}
+#u3 {
+  position:absolute;
+  left:0px;
+  top:105px;
+  width:1366px;
+  height:10px;
+}
+#u3_line {
+  position:absolute;
+  left:0px;
+  top:3px;
+  width:1366px;
+  height:5px;
+}
+#u4 {
+  position:absolute;
+  left:354px;
+  top:145px;
+  width:662px;
+  height:400px;
+  font-size:14px;
+}
+#u4_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:672px;
+  height:400px;
+}
+
+.tip {
+  position:absolute;
+  left:160px;
+  font-size:18px;
+}
+#tip1 {
+  top:40px;
+}
+#phone {
+  position:absolute;
+  left:198px;
+  top:70px;
+  width:200px;
+  font-size:18px;
+}
+#phonemark {
+  position:absolute;
+  left:410px;
+  top:73px;
+  height:20px;
+  width:20px;
+  font-size:18px;
+}
+#phonemarktip {
+  position:absolute;
+  left:440px;
+  top:75px;
+  font-size:12px;
+  color:red;
+}
+#tip2 {
+  top:120px;
+}
+#captcha {
+  position:absolute;
+  left:160px;
+  top:150px;
+  width:200px;
+  font-size:18px;
+}
+#tip3 {
+  top:200px;
+}
+#tip4 {
+  top:250px;
+}
+#tip5 {
+  top:120px;
+  left:198px;
+}
+#setpsd {
+  position:absolute;
+  left:198px;
+  top:150px;
+  width:200px;
+  font-size:18px;
+}
+#tip6 {
+  top:190px;
+  left:198px;
+}
+#confirmpsd {
+  position:absolute;
+  left:198px;
+  top:220px;
+  width:200px;
+  font-size:18px;
+}
+#requestverification {
+  position:absolute;
+  left:198px;
+  top:195px;
+  height:30px;
+  color:#990000;
+  font-size:15px;
+}
+.button{
+  width: 108px;
+  line-height: 20px;
+  text-align: center;
+  color: #fff;
+  text-shadow:1px 1px 1px #333;
+  border-radius: 5px;
+  margin:0 20px 20px 0;
+  position: relative;
+  overflow: hidden;
+}
+.button.gray{
+  color: #8c96a0;
+  text-shadow:1px 1px 1px #fff;
+  border:1px solid #dce1e6;
+  box-shadow: 0 1px 2px #fff inset,0 -1px 0 #a8abae inset;
+  background: -webkit-linear-gradient(top,#f2f3f7,#e4e8ec);
+  background: -moz-linear-gradient(top,#f2f3f7,#e4e8ec);
+  background: linear-gradient(top,#f2f3f7,#e4e8ec);
+}
+#verificationcode {
+  position:absolute;
+  left:198px;
+  top:280px;
+  width:120px;
+  font-size:18px;
+}
+#error {
+  position:absolute;
+  left:315px;
+  top:202px;
+  width:50px;
+  font-size:13px;
+  color:red;
+}
+#verificationmark {
+  position:absolute;
+  left:328px;
+  top:284px;
+  height:20px;
+  width:20px;
+}
+#psdtip {
+  position:absolute;
+  font-size:12px;
+  left:430px;
+  top:158px;
+}
+#psdmark {
+  position:absolute;
+  left:405px;
+  top:155px;
+  height:20px;
+  width:20px;
+}
+#confirmpsdmark {
+  position:absolute;
+  left:405px;
+  top:225px;
+  height:20px;
+  width:20px;
+}
+#Button1 {
+  position:absolute;
+  left:280px;
+  top:330px;
+  width:100px;
+  height:30px;
+  color:#000000;
+  border:none;
+  background: transparent url("../images/loginbutton.png") no-repeat scroll 0% 0%;
+  cursor:pointer;
+}
+#Button2 {
+  position:absolute;
+  left:280px;
+  top:330px;
+  width:100px;
+  height:30px;
+  color:#000000;
+  border:none;
+  background: transparent url("../images/loginbutton.png") no-repeat scroll 0% 0%;
+  cursor:pointer;
+}

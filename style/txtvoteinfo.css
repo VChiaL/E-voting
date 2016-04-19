@@ -1,0 +1,125 @@
+#right {
+  position:absolute;
+  left:180px;
+  top:170px;
+}
+#votestateinfo {
+  height:34px;
+  width:160px;
+  font-size:20px;
+  line-height:34px;
+  color:black;
+  background-color:rgb(247, 239, 205);
+}
+.votestateinfo1 #voteimg {
+  position:absolute;
+  top:2px;
+  left:5px;
+  width:30px;
+  height:30px;
+  background: transparent url("../images/greenlight.png") no-repeat scroll 0% 0%;
+}
+.votestateinfo2 #voteimg {
+  position:absolute;
+  top:2px;
+  left:5px;
+  width:30px;
+  height:30px;
+  background: transparent url("../images/redlight.png") no-repeat scroll 0% 0%;
+}
+#u8 {
+  position:absolute;
+  left:0px;
+  top:40px;
+  width:1140px;
+  min-height:400px;
+  line-height:50px;
+  font-size:20px;
+  background-color:rgba(255, 143, 134, 1);
+}
+#votetittle {
+  position:absolute;
+  left:20px;
+  top:20px;
+  padding-left:10px;
+  padding-top:5px;
+  width:1090px;
+  background-color:white;
+  font-size:25px;
+  line-height:35px;
+}
+#voteinfo {
+  position:absolute;
+  left:20px;
+  padding-left:10px;
+  padding-top:0px;
+  width:1090px;
+  background-color:white;
+  font-size:15px;
+  line-height:40px;
+}
+#inputmain {
+  position:absolute;
+  left:20px;
+  height:180px;
+  width:1100px;
+  background-color:white;
+}
+#input {
+  position:absolute;
+  left:20px;
+  top:20px;
+  width:1090px;
+  height:100px;
+}
+#inputtxt {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1050px;
+  font-weight:400;
+  font-style:normal;
+  font-size:18px;
+  text-decoration:none;
+  color:#000000;
+  text-align:left;
+  resize:none;
+}
+#submitbutton {
+  position:absolute;
+  left:1020px;
+  width:100px;
+  height:30px;
+  font-size:20px;
+  cursor:pointer;
+}
+#buttontxt {
+  position:absolute;
+  width:100px;
+  text-align:center;
+  font-size:15px;
+  height:30px;
+  line-height:30px;
+}
+#submit_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:100px;
+  height:30px;
+}
+#resultanalysebutton {
+  position:absolute;
+  width:100px;
+  height:30px;
+  font-size:20px;
+  cursor:pointer;
+}
+#resultanalyse {
+  width:100px;
+  height:30px;
+  overflow:hidden;
+  cursor:pointer;
+  background:transparent url("../images/loginbutton.png") no-repeat scroll 0% 0%;
+  border:none;
+}

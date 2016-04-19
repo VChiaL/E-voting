@@ -1,0 +1,232 @@
+#right {
+  position:absolute;
+  left:180px;
+  top:170px;
+}
+#u8 {
+  position:absolute;
+  width:1110px;
+  min-height:30px;
+  overflow:hidden;
+  font-size:30px;
+  padding-top:20px;
+  padding-bottom:20px;
+  padding-left:20px;
+  padding-right:20px;
+  background-color:rgba(255, 143, 134, 1);
+}
+#u9 {
+  position:absolute;
+  left:0px;
+  width:1150px;
+  height:40px;
+  overflow:hidden;
+  background-color:rgba(255, 143, 134, 1);
+}
+#u10 {
+  position:absolute;
+  left:40px;
+  top:0px;
+  width:200px;
+  height:40px;
+  overflow:hidden;
+  font-size:20px;
+  line-height:40px;
+  text-align:center;
+}
+#u10_img {
+  position:absolute;
+  left:40px;
+  top:0px;
+  width:200px;
+  height:40px;
+  overflow:hidden;
+  cursor:pointer;
+}
+#u11 {
+  position:absolute;
+  left:290px;
+  top:0px;
+  width:200px;
+  height:40px;
+  overflow:hidden;
+  font-size:20px;
+  line-height:40px;
+  text-align:center;
+}
+#u11_img {
+  position:absolute;
+  left:290px;
+  top:0px;
+  width:200px;
+  height:40px;
+  overflow:hidden;
+  cursor:pointer;
+}
+#u12 {
+  position:absolute;
+  left:540px;
+  top:0px;
+  width:200px;
+  height:40px;
+  overflow:hidden;
+  font-size:20px;
+  line-height:40px;
+  text-align:center;
+}
+#u12_img {
+  position:absolute;
+  left:540px;
+  top:0px;
+  width:200px;
+  height:40px;
+  overflow:hidden;
+  cursor:pointer;
+}
+#u13 {
+  position:absolute;
+  left:0px;
+  width:1150px;
+  height:600px;
+  overflow:hidden;
+  background-color:rgba(255, 143, 134, 1);
+}
+#u14 {
+  position:absolute;
+  left:0px;
+  width:1150px;
+  height:620px;
+  overflow:hidden;
+  background-color:rgba(255, 143, 134, 1);
+}
+#u15 {
+  position:absolute;
+  left:0px;
+  width:1150px;
+  height:600px;
+  overflow:hidden;
+  background-color:rgba(255, 143, 134, 1);
+}
+.charttype {
+  font-size:20px;
+  position:absolute;
+  left:75px;
+  top:25px;
+}
+.targetgroup {
+  font-size:20px;
+  position:absolute;
+  left:280px;
+  top:25px;
+}
+.grouptype {
+  font-size:20px;
+  position:absolute;
+  left:75px;
+  top:60px;
+}
+.grouptypechoice {
+  font-size:20px;
+  position:absolute;
+  left:100px;
+  top:-2px;
+}
+#charttypechoice1 {
+  font-size:20px;
+  position:absolute;
+  left:100px;
+  top:-2px;
+}
+#charttypechoice2 {
+  font-size:20px;
+  position:absolute;
+  left:100px;
+  top:-2px;
+}
+#charttypechoice3 {
+  font-size:20px;
+  position:absolute;
+  left:100px;
+  top:-2px;
+}
+.sexchoice {
+  font-size:18px;
+  top:-2px;
+}
+.entrancetimechoice {
+  font-size:18px;
+  top:-2px;
+}
+.collegechoice {
+  font-size:18px;
+  top:-2px;
+}
+.departchoice {
+  font-size:18px;
+  width:115px;
+  top:-2px;
+}
+.classchoice {
+  font-size:18px;
+  width:200px;
+  top:-2px;
+}
+#chartarea1 {
+  top:100px;
+  position:relative;
+  left:0px;
+  width:1000px;
+  height:450px;
+  overflow:hidden;
+  margin-left:auto;
+  margin-right:auto;
+  background-color:rgba(255, 255, 255, 1);
+}
+#chartarea2 {
+  top:100px;
+  position:relative;
+  left:0px;
+  width:1000px;
+  height:480px;
+  overflow:hidden;
+  margin-left:auto;
+  margin-right:auto;
+  background-color:rgba(255, 255, 255, 1);
+}
+#chartarea3 {
+  top:100px;
+  position:relative;
+  left:0px;
+  width:1000px;
+  height:450px;
+  overflow:hidden;
+  margin-left:auto;
+  margin-right:auto;
+  background-color:rgba(255, 255, 255, 1);
+}
+.canvasholder {
+  position:absolute;
+}
+#chartmain1 {
+  position:relative;
+  top:25px;
+  margin-left:auto;
+  margin-right:auto;
+}
+#chartmain2 {
+  position:relative;
+  top:25px;
+  margin-left:auto;
+  margin-right:auto;
+}
+#chartmain3 {
+  position:relative;
+  top:25px;
+  margin-left:auto;
+  margin-right:auto;
+}
+#chartmain2 canvas {
+  position:relative;
+  top:25px;
+  left:25px;
+}

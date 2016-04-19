@@ -1,0 +1,107 @@
+body {
+  margin:0px;
+  background-color:rgba(255, 72, 57, 1);
+  background-image:none;
+  position:static;
+  left:auto;
+  width:1366px;
+  margin-left:0;
+  margin-right:0;
+  text-align:left;
+  height:100%;
+  font-family:"ËÎÌו","Arial Narrow";
+}
+input {
+  font-family:"ËÎÌו","Arial Narrow";
+}
+#u1 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1366px;
+  height:140px;
+  background-color:white;
+}
+#u2 {
+  position:absolute;
+  left:0px;
+  top:93px;
+}
+#u3 {
+  position:absolute;
+  left:0px;
+  top:97px;
+  width:1366px;
+  height:40px;
+  overflow:hidden;
+}
+#u3_1 {
+  position:absolute;
+  left:18px;
+  top:-6px;
+  width:209px;
+  white-space:nowrap;
+  font-size:18px;
+}
+#u3_3 {
+  position:absolute;
+  left:1100px;
+  top:-6px;
+  width:209px;
+  white-space:nowrap;
+  font-size:18px;
+}
+#u4 {
+  position:absolute;
+  left:0px;
+  top:138px;
+}
+#left_bg {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:143px;
+  background-color:white;
+}
+#u5 {
+  position:absolute;
+  left:0px;
+  top:141px;
+  width:143px;
+  height:143px;
+  overflow:hidden;
+  cursor:pointer;
+  background:transparent url("../images/usercenter_state1.png") no-repeat scroll 0% 0%;
+  border:none;
+}
+#u5:hover {
+  background:transparent url("../images/usercenter_state2.png") no-repeat scroll 0% 0%;
+}
+#u6 {
+  position:absolute;
+  left:0px;
+  top:284px;
+  width:143px;
+  height:143px;
+  overflow:hidden;
+  cursor:pointer;
+  background:transparent url("../images/checkvote_state1.png") no-repeat scroll 0% 0%;
+  border:none;
+}
+#u6:hover {
+  background:transparent url("../images/checkvote_state2.png") no-repeat scroll 0% 0%;
+}
+#u7 {
+  position:absolute;
+  left:0px;
+  top:425px;
+  width:143px;
+  height:143px;
+  overflow:hidden;
+  cursor:pointer;
+  background:transparent url("../images/createvote_state1.png") no-repeat scroll 0% 0%;
+  border:none;
+}
+#u7:hover {
+  background:transparent url("../images/createvote_state2.png") no-repeat scroll 0% 0%;
+}

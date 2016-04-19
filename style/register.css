@@ -1,0 +1,289 @@
+body {
+  margin:0px;
+  background-color:rgba(247, 239, 205, 1);
+  background-image:none;
+  position:relative;
+  left:-0px;
+  width:1366px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+#u0 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1366px;
+  height:108px;
+  background-color:white;
+}
+#u20 {
+  position:absolute;
+  left:393px;
+  top:0px;
+  width:580px;
+  height:105px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+  text-align:center;
+  line-height:normal;
+}
+#u20_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:580px;
+  height:105px;
+}
+#u3 {
+  position:absolute;
+  left:0px;
+  top:105px;
+  width:1366px;
+  height:10px;
+}
+#u3_line {
+  position:absolute;
+  left:0px;
+  top:3px;
+  width:1366px;
+  height:5px;
+}
+#u4 {
+  position:absolute;
+  left:318px;
+  top:145px;
+  width:730px;
+  height:580x;
+  font-size:14px;
+}
+#u4_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:740px;
+  height:660px;
+}
+.question {
+  position:relative;
+  font-size:20px;
+  text-align:right;
+  width:300px;
+  left:125px;
+}
+.questiontxt {
+  position:relative;
+  font-size:20px;
+  text-align:right;
+  left:-150px;
+}
+.tip {
+  font-size:12px;
+  left:445px;
+}
+#usernicknametip {
+  position:absolute;
+  top:35px;
+  left:460px;
+}
+#psdtip {
+  position:absolute;
+  top:69px;
+  left:460px;
+}
+#schooltip {
+  position:absolute;
+  top:227px;
+  color:red;
+}
+#schoolentrancetimetip {
+  position:absolute;
+  top:260px;
+  color:red;
+}
+#collegetip {
+  position:absolute;
+  top:292px;
+  color:red;
+}
+#departtip {
+  position:absolute;
+  top:325px;
+  color:red;
+}
+#classtip {
+  position:absolute;
+  top:358px;
+  color:red;
+}
+#stuIDtip {
+  position:absolute;
+  top:391px;
+  color:red;
+}
+#sextip {
+  position:absolute;
+  top:424px;
+  color:red;
+}
+#truenametip {
+  position:absolute;
+  top:457px;
+  color:red;
+}
+#politicaltypetip {
+  position:absolute;
+  top:490px;
+  color:red;
+}
+#nationalitytypetip {
+  position:absolute;
+  top:523px;
+  color:red;
+}
+#usernickname {
+  top:30px;
+}
+#setpsd {
+  top:40px;
+}
+#confirmpsd {
+  top:50px;
+}
+#phone {
+  top:60px;
+}
+#captcha {
+  position:relative;
+  top:65px;
+  left:200px;
+}
+#verification {
+  top:70px;
+}
+#school {
+  top:80px;
+}
+#schoolentrancetime {
+  top:90px;
+}
+#college {
+  top:100px;
+}
+#depart {
+  top:110px;
+}
+#class {
+  top:120px;
+}
+#stuID {
+  top:130px;
+}
+#sex {
+  top:140px;
+}
+#truename {
+  top:150px;
+}
+#politicaltype {
+  top:160px;
+}
+#nationalitytype {
+  top:170px;
+}
+.txt {
+  position:relative;
+  width:150px;
+  float:left;
+  top:-22px;
+  left:150px;
+}
+.select {
+  position:relative;
+  top:-2px;
+  width:154px;
+  font-size:16px;
+  float:left;
+  top:-22px;
+  left:150px;
+}
+#submitbutton {
+  font-size:18px;
+  position:absolute;
+  left:600px;
+  top:720px;
+  width:140px;
+  height:40px;
+  color:#000000;
+  border:none;
+  background: transparent url("../images/registersubmitbutton.png") no-repeat scroll 0% 0%;
+  cursor:pointer;
+}
+#requestverification {
+  position:absolute;
+  font-size:15px;
+  left:460px;
+  top:128px;
+  color:#990000;
+}
+#psdmark {
+  position:absolute;
+  left:310px;
+  top:1px;
+  height:20px;
+  width:20px;
+}
+#confirmpsdmark {
+  position:absolute;
+  left:310px;
+  top:1px;
+  height:20px;
+  width:20px;
+}
+#verificationmark {
+  position:absolute;
+  left:310px;
+  top:1px;
+  height:20px;
+  width:20px;
+}
+#phonemark {
+  position:absolute;
+  left:310px;
+  top:1px;
+  height:20px;
+  width:20px;
+}
+#error {
+  position:absolute;
+  left:375px;
+  top:30px;
+  width:60px;
+  font-size:13px;
+  color:red;
+}
+.button{
+  width: 108px;
+  line-height: 20px;
+  text-align: center;
+  color: #fff;
+  text-shadow:1px 1px 1px #333;
+  border-radius: 5px;
+  margin:0 20px 20px 0;
+  position: relative;
+  overflow: hidden;
+}
+.button.gray{
+  color: #8c96a0;
+  text-shadow:1px 1px 1px #fff;
+  border:1px solid #dce1e6;
+  box-shadow: 0 1px 2px #fff inset,0 -1px 0 #a8abae inset;
+  background: -webkit-linear-gradient(top,#f2f3f7,#e4e8ec);
+  background: -moz-linear-gradient(top,#f2f3f7,#e4e8ec);
+  background: linear-gradient(top,#f2f3f7,#e4e8ec);
+  
+}

@@ -1,0 +1,175 @@
+body {
+  margin:0px;
+  background-color:rgba(247, 239, 205, 1);
+  background-image:none;
+  position:relative;
+  left:-0px;
+  width:1366px;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:left;
+}
+#u0 {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:1366px;
+  height:108px;
+  background-color:white;
+}
+#u20 {
+  position:absolute;
+  left:393px;
+  top:0px;
+  width:580px;
+  height:105px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+  text-align:center;
+  line-height:normal;
+}
+#u20_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:580px;
+  height:105px;
+}
+#u3 {
+  position:absolute;
+  left:0px;
+  top:105px;
+  width:1366px;
+  height:10px;
+}
+#u3_line {
+  position:absolute;
+  left:0px;
+  top:3px;
+  width:1366px;
+  height:5px;
+}
+#u4 {
+  position:absolute;
+  left:483px;
+  top:145px;
+  width:400px;
+  height:320px;
+  font-size:14px;
+}
+#u4_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:410px;
+  height:320px;
+}
+
+#u7 {
+  position:absolute;
+  left:47px;
+  top:15px;
+  width:57px;
+  white-space:nowrap;
+  color:#666666;
+}
+#u8 {
+  position:absolute;
+  left:47px;
+  top:57px;
+  width:303px;
+  height:25px;
+}
+#u8_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:300px;
+  height:19px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#666666;
+  text-align:left;
+}
+#u10_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:300px;
+  height:19px;
+  font-family:'Arial Normal', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  text-decoration:none;
+  color:#000000;
+  text-align:left;
+}
+#u9 {
+  position:absolute;
+  left:47px;
+  top:93px;
+  width:57px;
+  white-space:nowrap;
+  color:#666666;
+}
+#u10 {
+  position:absolute;
+  left:47px;
+  top:133px;
+  width:303px;
+  height:25px;
+}
+#backnews {
+  position:absolute;
+  left:47px;
+  top:170px;
+  width:303px;
+  height:25px;
+  color:red;
+  font-size:12px;
+}
+#u11 {
+  position:absolute;
+  left:295px;
+  top:158px;
+  width:57px;
+  white-space:nowrap;
+  color:#666666;
+  font-size:12px;
+}
+#Button1 {
+  position:absolute;
+  left:47px;
+  top:250px;
+  width:100px;
+  height:30px;
+  color:#000000;
+  border:none;
+  background: transparent url("../images/loginbutton.png") no-repeat scroll 0% 0%;
+  cursor:pointer;
+}
+#u12 {
+  position:absolute;
+  left:250px;
+  top:250px;
+  width:57px;
+  white-space:nowrap;
+  color:#000000;
+  font-size:12px;
+}
+#captcha {
+  position:absolute;
+  left:48px;
+  top:200px;
+  width:200px;
+  height:50px;
+  font-size:12px;
+}
